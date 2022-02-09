@@ -18,6 +18,7 @@ output:
 | 2012  | 4482983158 |            1254 |
 +-------+------------+-----------------+
 
+
 -- Overall Performance by Product Sub-category from 2011 until 2012
 
 SELECT
@@ -76,3 +77,8 @@ output:
 |  2012 | Labels                         |  10007040 |
 |  2012 | Rubber Bands                   |   3837880 |
 +-------+--------------------------------+-----------+ 
+
+
+-- Promotion Effectiveness and Efficiency by Years
+
+SELECT
